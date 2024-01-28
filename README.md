@@ -51,6 +51,7 @@ I'm a dedicated and passionate full-stack developer with a focus on Java and Pyt
 
 ## 📚 Education
 **Bachelor of Science 2024 - American Military University**
+
 **Associate in General Education - Fayetteville Technical Community College**
 
 ## 🤝 How to Reach Me
