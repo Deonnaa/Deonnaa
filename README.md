@@ -25,36 +25,36 @@ Here are some ideas to get you started:
 
 I'm a dedicated and passionate full-stack developer with a focus on Java and Python. My army experience has ingrained a deep understanding of teamwork and leadership. I thrive in collaborative environments, eager to both learn from and lead diverse teams toward shared victories in the tech terrain. Welcome to my GitHub page!
 
-## 🛠 Skills & Experience
+## 📂 Skills & Experience
 
-- 👨‍💻 **Languages:** Java, Python
-- 🌐 **Web Development:** Angular, JavaScript, TypeScript, AJAX, XHR, HTML, CSS, Bootstrap
-- 💾 **Database:** SQL, JPA, Spring Data JPA, JDBC, JPQL, MySQL
+- 📚 **Languages:** Java, Python
+- 🌍 **Web Development:** Angular, JavaScript, TypeScript, AJAX, XHR, HTML, CSS, Bootstrap
+- 🗄️ **Database:** SQL, JPA, Spring Data JPA, JDBC, JPQL, MySQL
 - 🔌 **APIs:** REST, JSON, Fetch, AJAX, XHR
-- 🔍 **Methodologies:** TDD
+- ✅ **Methodologies:** TDD
 - 🖥️ **Frameworks:** Spring, Spring Boot, Agile, Scrum
-- 🔧 **Config Management:** Git
+- 📊 **Config Management:** Git
 
-## 📈 GitHub Stats
+## 📂 GitHub Stats
 | <a href="https://github.com/Deonnaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Deonnaa&show_icons=true&theme=buefy&hide_border=true" alt="Deonna's github stats" /></a> | <a href="https://github.com/Deonnaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deonnaa&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## 💼 Professional Experience
+## 📂 Professional Experience
 **Java Full Stack Developer Bootcamp Graduate - Skill Distillery**
 - Designed and Implemented Java full stack applications using Spring Boot, SQL, JPA, JavaScript, Angular, REST, JSON, AJAX
 - Created RESTful APIs
 - Created front-end components using JavaScript, Angular, AJAX, HTML, CSS, Bootstrap
 - Agile / Kanban: GitHub, Zoom, Slack, Trello
 
-## 🚀 Projects
+## 📂 Projects
+- 👨‍💻 **Project 1**
+- 👨‍💻 **Project 2**
 
+## 📂 Education
+- Bachelor of Science 2024 - American Military University
+- Associate in General Education - Fayetteville Technical Community College
 
-## 📚 Education
-**Bachelor of Science 2024 - American Military University**
-
-**Associate in General Education - Fayetteville Technical Community College**
-
-## 🤝 How to Reach Me
+## 📂 How to Reach Me
 - LinkedIn: [Deonna Aponte](https://www.linkedin.com/in/deonnaaponte/)
 
 
