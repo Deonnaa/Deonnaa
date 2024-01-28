@@ -64,7 +64,7 @@ I'm a dedicated and passionate full-stack developer with a focus on Java and Pyt
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,typescript,github,mysql,aws,html,css,figma,gradle,postman" /><br>
-    <img src="https://skillicons.dev/icons?i=eclipse,spring,vscode,angular,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,typescript,github,mysql,aws,html,css,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=eclipse,spring,vscode,angular,bootstrap,gradle,postman" />
   </a>
 </p>
