@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Deonnaa/Deonnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +17,5 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Deonnaa/count.svg" />
 </p>
+
+![](https://github.com/Deonnaa/Deonnaa/blob/main/dino.gif)
