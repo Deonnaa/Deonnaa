@@ -59,6 +59,9 @@ I'm a dedicated and passionate full-stack developer with a focus on Java and Pyt
 ## 📂 How to Reach Me
 - LinkedIn: [Deonna Aponte](https://www.linkedin.com/in/deonnaaponte/)
 
+<br>
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,github,mysql,aws,angular,bootstrap,html,css,figma,gradle,postman,vscode" />
