@@ -41,13 +41,15 @@ I'm a dedicated and passionate full-stack developer with a focus on Java and Pyt
 | ------------- | ------------- |
 -->
 
-##
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,github,mysql,aws,angular,bootstrap,html,css,figma,gradle,postman,vscode" />
   </a>
 </p>
+
+<br>
 
 ## 📂 Professional Experience
 **Java Full Stack Developer Bootcamp Graduate - Skill Distillery**
