@@ -40,7 +40,7 @@ I'm a dedicated and passionate full-stack developer with a focus on Java and Pyt
 | <a href="https://github.com/Deonnaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Deonnaa&show_icons=true&theme=buefy&hide_border=true" alt="Deonna's github stats" /></a> | <a href="https://github.com/Deonnaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deonnaa&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 -->
-## 📂 Technologies
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,github,mysql,aws,angular,bootstrap,html,css,figma,gradle,postman,vscode" />
