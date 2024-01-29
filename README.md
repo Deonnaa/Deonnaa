@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 I'm a dedicated and passionate full-stack developer with a focus on Java and Python. My army experience has ingrained a deep understanding of teamwork and leadership. I thrive in collaborative environments, eager to both learn from and lead diverse teams toward shared victories in the tech terrain. Welcome to my GitHub page!
 
-<!--## 📂 Skills & Experience-->
 <h2><samp>📂 Skills & Experience</samp></h2>
 
 - 📚 **Languages:** Java, Python
@@ -41,26 +40,26 @@ I'm a dedicated and passionate full-stack developer with a focus on Java and Pyt
 | ------------- | ------------- |
 -->
 
-## 📂 Professional Experience
 <h2><samp>📂 Professional Experience</samp></h2>
+
 **Java Full Stack Developer Bootcamp Graduate - Skill Distillery**
 - Designed and Implemented Java full stack applications using Spring Boot, SQL, JPA, JavaScript, Angular, REST, JSON, AJAX
 - Created RESTful APIs
 - Created front-end components using JavaScript, Angular, AJAX, HTML, CSS, Bootstrap
 - Agile / Kanban: GitHub, Zoom, Slack, Trello
 
-## 📂 Projects
 <h2><samp>📂 Projects</samp></h2>
+
 - 👨‍💻 **Project 1**
 - 👨‍💻 **Project 2**
 
-## 📂 Education
 <h2><samp>📂 Education</samp></h2>
+
 - Bachelor of Science 2024 - American Military University
 - Associate in General Education - Fayetteville Technical Community College
 
-## 📂 How to Reach Me
 <h2><samp>📂 How to Reach Me>/samp></h2>
+  
 - LinkedIn: [Deonna Aponte](https://www.linkedin.com/in/deonnaaponte/)
 
 <br>
