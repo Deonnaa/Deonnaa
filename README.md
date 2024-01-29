@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 ![](https://github.com/Deonnaa/Deonnaa/blob/main/dino.gif)
 
-<p align="center"> 
-  # Deonna Aponte
-</p>
+<h2 align='center'><samp><strong>Hi there 🌴 I am Deonna Aponte</strong></samp></h2>
 
 I'm a dedicated and passionate full-stack developer with a focus on Java and Python. My army experience has ingrained a deep understanding of teamwork and leadership. I thrive in collaborative environments, eager to both learn from and lead diverse teams toward shared victories in the tech terrain. Welcome to my GitHub page!
 
