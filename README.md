@@ -58,7 +58,7 @@ I'm a dedicated and passionate full-stack developer with a focus on Java and Pyt
 - Bachelor of Science 2024 - American Military University
 - Associate in General Education - Fayetteville Technical Community College
 
-<h2><samp>📂 How to Reach Me></samp></h2>
+<h2><samp>📂 How to Reach Me</samp></h2>
   
 - LinkedIn: [Deonna Aponte](https://www.linkedin.com/in/deonnaaponte/)
 
