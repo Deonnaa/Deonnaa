@@ -40,7 +40,7 @@ I'm a dedicated and passionate full-stack developer with a focus on Java and Pyt
 | ------------- | ------------- |
 -->
 
-<h2><samp>📂 Professional Experience</samp></h2>
+<h2><samp>📂 Professional</samp></h2>
 
 **Java Full Stack Developer Bootcamp Graduate - Skill Distillery**
 - Designed and Implemented Java full stack applications using Spring Boot, SQL, JPA, JavaScript, Angular, REST, JSON, AJAX
